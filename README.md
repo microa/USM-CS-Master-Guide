@@ -1,4 +1,4 @@
-## Master of Science (Computer Science) at USM
+## Master of Science (Computer Science) at USM (Universiti Sains Malaysia)
 
 
 <p>Course files</p>
